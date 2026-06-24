@@ -3,6 +3,19 @@ import pandas as pd
 import plotly.express as px
 
 st.set_page_config(page_title="Dashboard", layout="wide")
+
+# Ocultar o botão de deploy e o menu
+st.markdown(
+    """
+    <style>
+    #MainMenu {visibility: hidden;}
+    footer {visibility: hidden;}
+    header {visibility: hidden;}
+    </style>
+    """,
+    unsafe_allow_html=True
+)
+
 st.title("Dashboard de Análise de Dados")
 
 # Cria o componente para upload do arquivo 
