@@ -69,12 +69,12 @@ Plaintext
 └── README.md               # Documentação do projeto
 
 📸 *Demonstração*
-(Dica: Quando o seu dashboard estiver rodando na tela, tire um print bonito dele, salve a imagem na raiz do projeto com o nome dashboard.png e descomente a linha abaixo para exibi-la no GitHub!)
 
-Desenvolvido por Seu Nome
+![alt text](<Captura de Tela 2026-06-23 às 20.59.02.png>)
+![alt text](<Captura de Tela 2026-06-23 às 20.59.26.png>)
+![alt text](<Captura de Tela 2026-06-23 às 20.59.41.png>)
+![alt text](<Captura de Tela 2026-06-23 às 21.00.22.png>)
 
+**O Autor:** 
 
-### Por que adicionar a "Estrutura do Repositório"?
-Isso ajuda muito os recrutadores ou outros desenvolvedores a entenderem o design do seu projeto num piscar de olhos, mostrando que você sabe organizar um ambiente de desenvolvimento limpo (com `.gitignore` e `requirements.txt`). 
-
-Depois de colar esse final no seu arquivo e trocar os campos `SEU_USUARIO` e `Seu Nome`, é só dar o `git commit` e mandar bala!
+*Desenvolvido por Greyke Helio* - Sinta-se à vontade para se conectar ou dar uma olhada nos meus outros projetos de programação! Linkedin: www.linkedin.com/in/helio-ghb
