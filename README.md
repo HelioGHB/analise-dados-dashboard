@@ -40,11 +40,12 @@ Antes de começar, certifique-se de ter o **Python 3.8+** instalado em sua máqu
 
 2. **Crie e ative o ambiente virtual:**
 
-No macOS/Linux:
+*No macOS/Linux:*
 
 python3 -m venv .venv
 source .venv/bin/activate
-No Windows:
+
+*No Windows:*
 
 python -m venv .venv
 .venv\Scripts\activate
@@ -70,10 +71,10 @@ Plaintext
 
 📸 *Demonstração*
 
-![alt text](<Captura de Tela 2026-06-23 às 20.59.02.png>)
-![alt text](<Captura de Tela 2026-06-23 às 20.59.26.png>)
-![alt text](<Captura de Tela 2026-06-23 às 20.59.41.png>)
-![alt text](<Captura de Tela 2026-06-23 às 21.00.22.png>)
+![Tela Inicial](assets/Captura%20de%20Tela%202026-06-23%20às%2020.59.02.png)
+![Upload de Arquivo](assets/Captura%20de%20Tela%202026-06-23%20às%2020.59.26.png)
+![Visualização de Dados](assets/Captura%20de%20Tela%202026-06-23%20às%2020.59.41.png)
+![Gráficos Interativos](assets/Captura%20de%20Tela%202026-06-23%20às%2021.00.22.png)
 
 **O Autor:** 
 
